@@ -1,2 +1,2 @@
-# IQAC-User-App-Android-Studio-Material-Design-Firebase-Realtime-Database
-This app is developed for users to get information about College Events, News, Contacts, Messages, Pdf Files &amp; Push Notifications using Firebase Real-time Database.
+# IQAC-User-Side-Android-Studio-Material-Design
+This app is developed for manage College Events, News, Contacts &amp; Pdf File Downloads with the help of Firebase and Android Studio.
