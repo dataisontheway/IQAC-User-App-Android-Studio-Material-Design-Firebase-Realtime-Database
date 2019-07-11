@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+
+<!--
+    <color name="colorAccent">#9C27B0</color>
+-->
+
+    <color name="colorAccent">#6200EE</color>
+    <color name="coloraqua">#03dac5</color>
+    <color name="colorindigo">#4b0082</color>
+    <color name="colorpink">#ff69b4</color>
+    <color name="colortb1">#23F8DF</color>
+    <color name="colortb2">#D501FFE2</color>
+</resources>
