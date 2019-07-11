@@ -25,7 +25,7 @@ This app is developed for users to get information about College Events, News, C
 
 ### Screenshots
 
-![Screenshot](https://1.bp.blogspot.com/-6cgHvEHI_Ro/XSbdkLN5fKI/AAAAAAAAAAU/wjD6ZXjnP8wt5120yI1JEeBulzIqO2jjwCLcBGAs/s200/img1.png)
+![Screenshot](https://1.bp.blogspot.com/-6cgHvEHI_Ro/XSbdkLN5fKI/AAAAAAAAAAU/wjD6ZXjnP8wt5120yI1JEeBulzIqO2jjwCLcBGAs/s200/img1.png)     
 ![Screenshot](https://1.bp.blogspot.com/-jo2C1XI7_qc/XScJzIZnQII/AAAAAAAAAEY/ILXXEHZFhpwXXAcEb5MmkBtQS0_Be-iQACEwYBhgL/s200/img2.png) 
 
 ![Screenshot](https://1.bp.blogspot.com/-Zzd30hwVTM8/XScKKbqxqLI/AAAAAAAAAEg/LyhYLFWlnN4-hC-jSwEHm4F4xq_EbyS3gCLcBGAs/s200/img4.png)
