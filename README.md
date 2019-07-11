@@ -19,8 +19,8 @@ This app is developed for users to get information about College Events, News, C
 12. Webview
 13. About & Privacy Policy Page
 
-![Screenshot](https://1.bp.blogspot.com/-jo2C1XI7_qc/XScJzIZnQII/AAAAAAAAAEY/ILXXEHZFhpwXXAcEb5MmkBtQS0_Be-iQACEwYBhgL/s200/img2.png) 
 ![Screenshot](https://1.bp.blogspot.com/-6cgHvEHI_Ro/XSbdkLN5fKI/AAAAAAAAAAU/wjD6ZXjnP8wt5120yI1JEeBulzIqO2jjwCLcBGAs/s200/img1.png)
+![Screenshot](https://1.bp.blogspot.com/-jo2C1XI7_qc/XScJzIZnQII/AAAAAAAAAEY/ILXXEHZFhpwXXAcEb5MmkBtQS0_Be-iQACEwYBhgL/s200/img2.png) 
 ![Screenshot](https://1.bp.blogspot.com/-Zzd30hwVTM8/XScKKbqxqLI/AAAAAAAAAEg/LyhYLFWlnN4-hC-jSwEHm4F4xq_EbyS3gCLcBGAs/s200/img4.png)
 ![Screenshot](https://1.bp.blogspot.com/-xI8hFGzJNRY/XSbkqG5oYUI/AAAAAAAAABU/PPZ-kpL3m4MzCzEoIEqEumG8Ez-haXSQQCLcBGAs/s200/img3.png)
 ![Screenshot](https://1.bp.blogspot.com/-dsFIeZ2LOZc/XSbfPjWeTfI/AAAAAAAAABA/BpXrTAaxpTEVENN5AdwZNM671KnHuCqAgCLcBGAs/s200/img6.png)
