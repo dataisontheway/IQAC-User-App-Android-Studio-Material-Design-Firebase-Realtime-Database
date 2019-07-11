@@ -4,7 +4,8 @@
 
 This app is developed for users to get information about College Events, News, Contacts, Messages, Pdf Files & Push Notifications with the help of Firebase Realtime Database.
 
-![Screenshot](https://1.bp.blogspot.com/-jo2C1XI7_qc/XScJzIZnQII/AAAAAAAAAEY/ILXXEHZFhpwXXAcEb5MmkBtQS0_Be-iQACEwYBhgL/s200/img2.png)
+![Screenshot](https://1.bp.blogspot.com/-jo2C1XI7_qc/XScJzIZnQII/AAAAAAAAAEY/ILXXEHZFhpwXXAcEb5MmkBtQS0_Be-iQACEwYBhgL/s200/img2.png) 
+![Screenshot](https://1.bp.blogspot.com/-6cgHvEHI_Ro/XSbdkLN5fKI/AAAAAAAAAAU/wjD6ZXjnP8wt5120yI1JEeBulzIqO2jjwCLcBGAs/s200/img1.png)
 
 **Features of the apps are:**
 1. Authentication
