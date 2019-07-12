@@ -27,24 +27,31 @@
         </activity>
         <activity android:label="News" android:name=".activity.NewsActivity"></activity>
         <activity
+            android:label="Saturday"
             android:name=".activity.SaturdayActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:label="Friday"
             android:name=".activity.FridayActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:label="Thursday"
             android:name=".activity.ThursdayActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:label="Wednesday"
             android:name=".activity.WednesdayActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:label="Tuesday"
             android:name=".activity.TuesdayActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:label="Monday"
             android:name=".activity.MondayActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:label="Sunday"
             android:name=".activity.SundayActivity"
             android:screenOrientation="portrait" />
         <activity
